@@ -1,51 +1,39 @@
-# Advanced Deep Learning @ KAIST
+# Advanced Deep Learning 2020 Fall @ KAIST
 
-## Course Information
-**Instructor:** Sung Ju Hwang (sjhwang82@kaist.ac.kr)  
 
-**Office:** 
-This is an online course.
-E3-1, Room 1427 (Instructor) Room 1435 (TAs)  
-Office hours: By appointment only.
+## paper discussion : 월요일 수업 이후 (프로젝트 초점 맞춰진 디스커션은 금요일 오후!)
+* deepRL, adversarially robust DL,GNN 파트: 패스하거나, 수업 스케쥴 기준 페이퍼 프레젠테이션인 해당 날에 수업 종료 후 본인이 읽은 페이퍼 중 흥미로운 부분 공유
+* 디스커션 후 summary(디스커션 포인트, unsolved questions, usable framework/method, novel setting, result interpretation ...) 아카이브 @소연
 
-### Grading Policy
-* **Absolute Grading**
-* Paper Presentation: 20%
-* Attendance and Participation: 20%
-* Project: 60% 
+## Main paper discussion topic(tentative)
+* Bayesian deep Learning( + 나중에 베이지안 수업에서 페이퍼 리스트 주실 때, 규상이랑도 같이 디스커션 하면 좋을 것 같아요!)
+* Deep generative models
+* Memory- and Computation-Efficient Deep Learning
+* Meta-Learning
+* Continual learning
+* Interpretable deep learning
+* Semi-Supervised and Self Supervised Learning
+* Federatd Learning
 
-## Tentative Schedule
+
+## Discussion Schedule(tentative): 
 
 | Dates | Topic | 
 |---|:---|
-|8/31| Course Introduction |
-|9/2| Review of Deep Learning Basics (Video Lecture) |
-|9/7| Bayesian Deep Learning - VAEs and BNNs (Lecture) |
-|9/9| Bayesian Deep Learning - Bayesian Approximations, Modeling Uncertainty (Lecture) | 
-|9/14| Bayesian Deep Learning (Presentation) | 
-|9/16| Deep Generative Models - Autoregressive and Flow-based Models (Lecture) |
-|9/21| Deep Generative Models - Generative Adversarial Networks (Lecture) |
-|9/28| Deep Generative Models (Presentation) | 
-|10/5| Deep Reinforcement Learning - Value-based RL (Lecture) | 
-|10/7| Deep Reinforcement Learning - Policy and Model-based RL (Lecture) **Project Proposal Due October 8th**|
-|10/12| Deep Reinforcement Learning (Presentation) |
-|10/14| Memory- and Computation-Efficient Deep Learning (Lecture) |  
-|10/21| **Mid-term Presentation** 
-|10/26| Memory- and Computation-Efficient Deep Learning (Presentation), **Project Meetings** | 
-|10/28| Meta-Learning (Lecture) | 
-|11/2| Meta-Learning (Presentation) | 
-|11/4| Continual Learning (Lecture) | 
-|11/9| Continual Learning (Presentation) | 
-|11/11| Interpretable Deep Learning (Lecture) | 
-|11/16| Interpretable Deep Learning (Presentation) | 
-|11/18| Reliable Deep Learning (Lecture), **Project Meetings** | 
-|11/23| Reliable Deep Learning (Presentation), **Project Meetings** |
-|11/25| Adversarially-Robust Deep Learning (Lecture), **Project Meetings** | 
-|11/30| Adversarially-Robust Deep Learning (Presentation), **Project Meetings** |
-|12/2| Graph Neural Networks (Lecture) **Final Paper Due December 4th** | 
-|12/7| Graph Neural Networks (Presentation) | 
-|12/9| Semi-Supervised and Self Supervised Learning, Neural Architecture Search or Federated Learning (Lecture) | 
-|12/14| Semi-Supervised and Self Supervised Learning, Neural Architecture Search or Federated Learning (Presentation) | 
+|9/14| Federated Learning | 
+|9/21| Meta Learning |
+|9/28| Bayesian Learning + deep generative learning(VAEs, Autoregressive and Flow-Based Generative Models 파트 중심으로) |
+|10/5| Continual Learning | 
+|10/7| **Project Proposal Due October 8th**|
+|10/12| (pass or short)Deep Reinforcement Learning (Presentation) |
+|10/19| Memory- and Computation-Efficient Deep Learning |  
+|10/21| **Mid-term Presentation** |
+|11/2 | deep generative learning(generative adversarial learning)| 
+|11/9 | (pass or short)Adversarially-Robust Deep Learning|
+|11/16| Interpretable Deep Learning |  
+|11/23| Semi-Supervised and Self Supervised Learning|
+|12/4 | **Final Paper Due December 4th** | 
+|12/7| (pass or short)Graph Neural Networks (Presentation) | 
 |12/18| **(Online) Workshop**
 
 ## Reading List
